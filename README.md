@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan perilaku p
 Dataset yang digunakan adalah "Online Retail Dataset" yang bersumber dari UCI Machine Learning Repository.
 
 - **Sumber Asli:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-- **File Data Mentah:** [Online Retail.xlsx](./Online%20Retail.xlsx) (Link ke file di dalam repostory ini)
+- **File Data Mentah:** [Online Retail.xlsx](./Online%20Retail.xlsx) (Link ke file di dalam repository ini)
 
 ## Insight & Findings
 
